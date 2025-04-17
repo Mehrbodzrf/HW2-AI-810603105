@@ -6,8 +6,7 @@ This repository contains the final project for the AI course (Homework 2) by Meh
 
 - `HW2-810603105.ipynb` – Jupyter Notebook version of the analysis
 - `HW2-810603105.py` – Clean Python script version of the same workflow
-- `report.docx` – Final report document (if applicable)
-- Additional plots and result files (if any)
+- `report.docx` – Final report document
 
 ## ⚙️ Project Description
 
@@ -38,5 +37,5 @@ To run this project locally:
 
 ## 📌 Notes
 
-- This project was completed as part of the AI course at [Your University Name]
+- This project was completed as part of the AI course at [University of Tehran]
 - For more details, please refer to the final report included in this repository.
